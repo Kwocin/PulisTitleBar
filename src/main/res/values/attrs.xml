@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PulisTilteBar">
+        <attr name="tBackground" format="color"/>
+        <attr name="tHeight" format="dimension"/>
+    </declare-styleable>
+</resources>
